@@ -1,5 +1,5 @@
 # 使用 Playwright 官方镜像（已包含浏览器和依赖）
-FROM mcr.microsoft.com/playwright/python:v1.40.0-jammy
+FROM mcr.microsoft.com/playwright/python:v1.58.0-jammy
 
 WORKDIR /app
 
